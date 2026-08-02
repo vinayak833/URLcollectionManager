@@ -91,3 +91,24 @@ http://localhost:5173
 - Favorite Links
 - Total Link Clicks
 - Category Distribution
+## Skills Demonstrated
+
+- React Component Architecture
+- State Management with Hooks
+- Data Persistence with Local Storage
+- Search and Filter Functionality
+- Props and Component Communication
+- Dashboard Development
+- Responsive UI Design
+
+## Learning Outcomes
+
+- Building scalable React applications
+- Managing dynamic user data
+- Implementing filtering and search systems
+- Creating reusable UI components
+- Persisting application state locally
+
+## Author
+
+Vinayak S
