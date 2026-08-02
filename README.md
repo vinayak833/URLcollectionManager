@@ -51,30 +51,3 @@ Clone the repository:
 git clone https://github.com/vinayak833/URLCollectionManager.git
 ```
 
-Navigate to the project folder:
-
-```bash
-cd URLCollectionManager
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:5173
-```
-
-
-- DSA
-
