@@ -75,28 +75,6 @@ Open:
 http://localhost:5173
 ```
 
-## Usage
 
-1. Add a website title and URL.
-2. Select a category.
-3. Save the link.
-4. Search links by title.
-5. Filter links by category.
-6. Mark links as favorites.
-7. Track link clicks through the click counter.
-8. View statistics on the dashboard.
-
-## Dashboard Statistics
-
-- Total Links
-- Favorite Links
-- Total Clicks
-
-## Categories
-
-- Programming
-- React
-- Node.js
-- Java
 - DSA
 
